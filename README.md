@@ -37,7 +37,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://status.nmoo.dev/top-tracks?i=7&open"><img src="https://status.nmoo.dev/top-tracks?i=17" width="540" height="64"></a></td>
+      <td><a href="https://status.nmoo.dev/top-tracks?i=7&open"><img src="https://status.nmoo.dev/top-tracks?i=7" width="540" height="64"></a></td>
     </tr>
     <tr></tr> <!-- hide gray row -->
     <tr>
