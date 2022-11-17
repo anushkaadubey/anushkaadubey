@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anushka Dubey</h1>
 <h3 align="center">A passionate Software Developer | MS CS Graduate from India</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anushkaadubey" alt="anushkaadubey" /></a> </p>
 
 # 💫 About Me:
 🌱 I’m currently learning Machine Learning, Data Analysis<br><br>💬 Ask me about Python, ML, SAP, SQL
