@@ -39,18 +39,18 @@
     <tr>
       <td><a href="https://status.nmoo.dev/top-tracks?i=1&open"><img src="https://status.nmoo.dev/top-tracks?i=1" width="540" height="64"></a></td>
     </tr>
-    <tr></tr> <!-- hide gray row -->
+    <tr></tr> \
     <tr>
       <td><a href="https://status.nmoo.dev/top-tracks?i=2&open"><img src="https://status.nmoo.dev/top-tracks?i=2" width="540" height="64"></a></td>
     </tr>
-    <tr></tr> <!-- hide gray row -->
+    <tr></tr> 
     <tr>
       <td><a href="https://status.nmoo.dev/top-tracks?i=3&open"><img src="https://status.nmoo.dev/top-tracks?i=3" width="540" height="64"></a></td>
     </tr>
-    <tr></tr> <!-- hide gray row -->
+    <tr></tr>
     <tr>
       <td><a href="https://status.nmoo.dev/top-tracks?i=4&open"><img src="https://status.nmoo.dev/top-tracks?i=4" width="540" height="64"></a></td>
     </tr>
   </tbody>
 </table>
- -->
+-->
